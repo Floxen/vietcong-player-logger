@@ -1,10 +1,11 @@
 # VCLogger
 
-Vítejte v programu, který umožňuje připojit hráče do hry a uvítá je v herním prostředí.
+Vítejte v programu, který umožňuje připojit hráče do hry a uvítá je.
+Aplikace je konkrétně pro hru "Vietcong 1"
 
 ## Popis
 
-Tento program slouží k připojení a uvítání hráčů ve virtuálním herním světě. Po spuštění programu mají hráči možnost se připojit do hry a budou srdečně uvítáni následujícím způsobem (např): "Welcome jmeno hrace (lokace hrace)", kde `{name}` je jméno připojeného hráče a `{country}` je informace o státu nebo původu hráče.
+Tento program slouží k připojení a uvítání hráčů. Po spuštění programu mají hráči možnost se připojit do hry a budou srdečně uvítáni následujícím způsobem (např): "Welcome jmeno hrace (lokace hrace)", kde `{name}` je jméno připojeného hráče a `{country}` je informace o státu nebo původu hráče.
 
 ## Použití
 
