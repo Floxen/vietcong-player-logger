@@ -1,4 +1,4 @@
-# Název Vašeho Programu
+# VCLogger
 
 Vítejte v programu, který umožňuje připojit hráče do hry a uvítá je v herním prostředí.
 
