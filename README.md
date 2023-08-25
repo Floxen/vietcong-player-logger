@@ -16,5 +16,7 @@ Tento program slouží k připojení a uvítání hráčů ve virtuálním hern�
 
 4. V konfiguračním souboru to bude vypadat následovně : Welcome {name} ({country})
 
-## Příklad
+## Důležité info
+
+1. Aplikace nemá definovanou **working directory**, to znamená že je třeba mít aplikaci umístěnou ve složce s **vietcong** serverem!
 
